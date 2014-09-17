@@ -15,3 +15,8 @@ two:
   excerpt: MyString
   location: MyString
   user_id: 1
+
+welcome_to_rails:
+  user: eugene
+  title: "Welcome to Rails"
+  body: "Rails is such a nice web framework written in Ruby"

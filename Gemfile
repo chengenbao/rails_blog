@@ -40,3 +40,7 @@ gem 'spring',        group: :development
 
 gem 'execjs'
 gem 'therubyracer'
+
+# Use bootstap
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
